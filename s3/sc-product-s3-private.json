@@ -26,7 +26,7 @@
             "Type": "AWS::ServiceCatalog::CloudFormationProduct",
             "Properties": {
                 "Name": "Amazon S3 Private Bucket with CIDR Restricted Access",
-                "Description": "This product builds an Amazon AWS S3 bucket with private access accessible from a restricted soure.",
+                "Description": "This product builds an Amazon AWS S3 bucket with private access accessible from a restricted source.",
                 "Owner": {"Ref":"PortfolioProvider"},
                 "Distributor": {"Ref":"PortfolioProvider"},
                 "SupportDescription": "Operations Team",
